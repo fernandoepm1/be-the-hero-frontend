@@ -1,3 +1,7 @@
+# Be the Hero
+React Web Client for the Be the Hero application developed during the OmniStack 11.0.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
